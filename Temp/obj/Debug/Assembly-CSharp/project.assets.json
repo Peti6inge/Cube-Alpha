@@ -1,0 +1,155 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "Assembly-CSharp-firstpass/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "PlayFab": "1.0.0",
+          "PlayFabEditorExtensions": "1.0.0",
+          "PlayFabSDKEditor": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Assembly-CSharp-firstpass.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Assembly-CSharp-firstpass.dll": {}
+        }
+      },
+      "PlayFab/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/PlayFab.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PlayFab.dll": {}
+        }
+      },
+      "PlayFabEditorExtensions/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/PlayFabEditorExtensions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PlayFabEditorExtensions.dll": {}
+        }
+      },
+      "PlayFabSDKEditor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "PlayFab": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PlayFabSDKEditor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PlayFabSDKEditor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assembly-CSharp-firstpass/1.0.0": {
+      "type": "project",
+      "path": "Assembly-CSharp-firstpass.csproj",
+      "msbuildProject": "Assembly-CSharp-firstpass.csproj"
+    },
+    "PlayFab/1.0.0": {
+      "type": "project",
+      "path": "PlayFab.csproj",
+      "msbuildProject": "PlayFab.csproj"
+    },
+    "PlayFabEditorExtensions/1.0.0": {
+      "type": "project",
+      "path": "PlayFabEditorExtensions.csproj",
+      "msbuildProject": "PlayFabEditorExtensions.csproj"
+    },
+    "PlayFabSDKEditor/1.0.0": {
+      "type": "project",
+      "path": "PlayFabSDKEditor.csproj",
+      "msbuildProject": "PlayFabSDKEditor.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "Assembly-CSharp-firstpass >= 1.0.0",
+      "PlayFab >= 1.0.0",
+      "PlayFabEditorExtensions >= 1.0.0",
+      "PlayFabSDKEditor >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Romain\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\Assembly-CSharp.csproj",
+      "projectName": "Assembly-CSharp",
+      "projectPath": "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\Assembly-CSharp.csproj",
+      "packagesPath": "C:\\Users\\Romain\\.nuget\\packages\\",
+      "outputPath": "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\Temp\\obj\\Debug\\Assembly-CSharp\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Romain\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {
+            "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\Assembly-CSharp-firstpass.csproj": {
+              "projectPath": "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\Assembly-CSharp-firstpass.csproj"
+            },
+            "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\PlayFab.csproj": {
+              "projectPath": "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\PlayFab.csproj"
+            },
+            "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\PlayFabEditorExtensions.csproj": {
+              "projectPath": "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\PlayFabEditorExtensions.csproj"
+            },
+            "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\PlayFabSDKEditor.csproj": {
+              "projectPath": "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\PlayFabSDKEditor.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
