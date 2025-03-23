@@ -13,7 +13,12 @@
     <EnableDefaultItems>false</EnableDefaultItems>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <LangVersion>9.0</LangVersion>
-    <Configurations>Debug;Release</Configurations>
+    <Configurations>Debug;Release</Configura{
+    "recommendations": [
+      "visualstudiotoolsforunity.vstuc"
+    ]
+}
+tions>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <RootNamespace>NugetForUnity</RootNamespace>
