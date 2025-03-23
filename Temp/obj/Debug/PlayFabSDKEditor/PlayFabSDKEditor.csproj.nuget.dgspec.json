@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\PlayFabSDKEditor.csproj": {}
+    "D:\\tout_et_rien\\Scam repos Github\\Cube-Alpha\\PlayFabSDKEditor.csproj": {}
   },
   "projects": {
-    "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\PlayFab.csproj": {
+    "D:\\tout_et_rien\\Scam repos Github\\Cube-Alpha\\PlayFab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\PlayFab.csproj",
+        "projectUniqueName": "D:\\tout_et_rien\\Scam repos Github\\Cube-Alpha\\PlayFab.csproj",
         "projectName": "PlayFab",
-        "projectPath": "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\PlayFab.csproj",
+        "projectPath": "D:\\tout_et_rien\\Scam repos Github\\Cube-Alpha\\PlayFab.csproj",
         "packagesPath": "C:\\Users\\Romain\\.nuget\\packages\\",
-        "outputPath": "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\Temp\\obj\\Debug\\PlayFab\\",
+        "outputPath": "D:\\tout_et_rien\\Scam repos Github\\Cube-Alpha\\Temp\\obj\\Debug\\PlayFab\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Romain\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,14 +58,14 @@
         }
       }
     },
-    "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\PlayFabSDKEditor.csproj": {
+    "D:\\tout_et_rien\\Scam repos Github\\Cube-Alpha\\PlayFabSDKEditor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\PlayFabSDKEditor.csproj",
+        "projectUniqueName": "D:\\tout_et_rien\\Scam repos Github\\Cube-Alpha\\PlayFabSDKEditor.csproj",
         "projectName": "PlayFabSDKEditor",
-        "projectPath": "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\PlayFabSDKEditor.csproj",
+        "projectPath": "D:\\tout_et_rien\\Scam repos Github\\Cube-Alpha\\PlayFabSDKEditor.csproj",
         "packagesPath": "C:\\Users\\Romain\\.nuget\\packages\\",
-        "outputPath": "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\Temp\\obj\\Debug\\PlayFabSDKEditor\\",
+        "outputPath": "D:\\tout_et_rien\\Scam repos Github\\Cube-Alpha\\Temp\\obj\\Debug\\PlayFabSDKEditor\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Romain\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -80,8 +80,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\PlayFab.csproj": {
-                "projectPath": "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\PlayFab.csproj"
+              "D:\\tout_et_rien\\Scam repos Github\\Cube-Alpha\\PlayFab.csproj": {
+                "projectPath": "D:\\tout_et_rien\\Scam repos Github\\Cube-Alpha\\PlayFab.csproj"
               }
             }
           }

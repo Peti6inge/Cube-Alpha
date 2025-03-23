@@ -67,11 +67,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\Assembly-CSharp-firstpass.csproj",
+      "projectUniqueName": "D:\\tout_et_rien\\Scam repos Github\\Cube-Alpha\\Assembly-CSharp-firstpass.csproj",
       "projectName": "Assembly-CSharp-firstpass",
-      "projectPath": "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\Assembly-CSharp-firstpass.csproj",
+      "projectPath": "D:\\tout_et_rien\\Scam repos Github\\Cube-Alpha\\Assembly-CSharp-firstpass.csproj",
       "packagesPath": "C:\\Users\\Romain\\.nuget\\packages\\",
-      "outputPath": "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\Temp\\obj\\Debug\\Assembly-CSharp-firstpass\\",
+      "outputPath": "D:\\tout_et_rien\\Scam repos Github\\Cube-Alpha\\Temp\\obj\\Debug\\Assembly-CSharp-firstpass\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Romain\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -86,14 +86,14 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\PlayFab.csproj": {
-              "projectPath": "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\PlayFab.csproj"
+            "D:\\tout_et_rien\\Scam repos Github\\Cube-Alpha\\PlayFab.csproj": {
+              "projectPath": "D:\\tout_et_rien\\Scam repos Github\\Cube-Alpha\\PlayFab.csproj"
             },
-            "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\PlayFabEditorExtensions.csproj": {
-              "projectPath": "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\PlayFabEditorExtensions.csproj"
+            "D:\\tout_et_rien\\Scam repos Github\\Cube-Alpha\\PlayFabEditorExtensions.csproj": {
+              "projectPath": "D:\\tout_et_rien\\Scam repos Github\\Cube-Alpha\\PlayFabEditorExtensions.csproj"
             },
-            "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\PlayFabSDKEditor.csproj": {
-              "projectPath": "D:\\tout_et_rien\\Scam repos Github\\CubeUnity\\PlayFabSDKEditor.csproj"
+            "D:\\tout_et_rien\\Scam repos Github\\Cube-Alpha\\PlayFabSDKEditor.csproj": {
+              "projectPath": "D:\\tout_et_rien\\Scam repos Github\\Cube-Alpha\\PlayFabSDKEditor.csproj"
             }
           }
         }
