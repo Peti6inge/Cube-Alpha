@@ -1545,7 +1545,3 @@
     <ProjectCapability Remove="ReferenceManagerProjects" />
     <ProjectCapability Remove="COMReferences" />
     <ProjectCapability Remove="ReferenceManagerCOM" />
-    <ProjectCapability Remove="AssemblyReferences" />
-    <ProjectCapability Remove="ReferenceManagerAssemblies" />
-  </ItemGroup>
-</Project>
