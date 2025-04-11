@@ -1296,4 +1296,4 @@
     <Reference Include="System.Core">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.17f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Core.dll</HintPath>
       <Private>False</Private>
-    </Reference>  
+    </Reference>   
